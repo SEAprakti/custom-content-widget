@@ -1,0 +1,23 @@
+{
+  "name": "custom-content-widget",
+  "version": "1.0.0",
+  "description": "this is my first app",
+  "main": "custom-app-content-block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEAprakti/custom-content-widget.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Tito-gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SEAprakti/custom-content-widget/issues"
+  },
+  "homepage": "https://github.com/SEAprakti/custom-content-widget#readme"
+}

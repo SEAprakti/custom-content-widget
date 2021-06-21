@@ -14,8 +14,7 @@ if (window.self === window.top) {
 			sdk.setSuperContent('This is super content: ' + html);
 
 			sdk.getData(function (data) {
-				var numberOfEdits = data.numberOfEdits || 0;
-				sdk.setData({
+				var numberOfEdits = data.numbe
 					numberOfEdits: numberOfEdits + 1
 				});
 			});
